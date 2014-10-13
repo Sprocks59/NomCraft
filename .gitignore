@@ -1,0 +1,57 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/.checkstyle
+/.metadata
+/eclipse
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+
+# Testing files:
+debug.log
+
+# Doxygen
+/docs/html
+debug.txt
+
+#misc
+build.properties
+build.gradle
+/world
+
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
+
+## ForgeGradle
+/run
+
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
+
+## intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+/atlassian-ide-plugin.xml
